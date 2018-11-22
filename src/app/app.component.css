@@ -1,0 +1,21 @@
+.card{
+    max-width: 500px;
+    width: 500px;
+}
+
+.error-color{
+    color: red;
+}
+
+mat-form-field .mat-form-field-wrapper .mat-form-field-flex {
+    background: rgba(0, 0, 0, 0.1);
+}
+.pv-20{
+ margin: 20px 0 20px 0;
+}
+
+.p-15{
+    padding: 15px;
+}
+
+
